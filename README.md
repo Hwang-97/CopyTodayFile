@@ -37,6 +37,10 @@
 ![image](https://user-images.githubusercontent.com/85034286/153548111-6b4a0412-9ac4-44ee-8b0b-9a5c18688bb4.png)
 ![image](https://user-images.githubusercontent.com/85034286/153548720-950b221c-ac32-4df2-985a-032ba74f1f93.png)
 
+**😁구현 동작**
+
+![오늘 수정된 파일 복사 프로젝트](https://user-images.githubusercontent.com/85034286/153561670-e2888b75-4bef-4d98-8de6-cfb6597b0db1.gif)
+
 <br />
 <br />
 <br />
